@@ -11,19 +11,19 @@ Welcome to my repository for the "Deep Learning and Neural Networks" course. Her
 
 1. **Class Exercises**  
     *Description*: In-class exercises aimed at providing hands-on experience with various deep learning concepts and techniques.  
-    📄 [ClassExercises.md](./ClassExercises.md)
+    📄 [ClassExercises.md](./Class%20Exercises/)
 
 2. **Final Presentation**  
     *Description*: My final presentation covering key insights, learnings, and takeaways from the course.  
-    📄 [final-presentation.md](./final-presentation.md)
+    📄 [final-presentation.md](./Final%20presentation/)
 
 3. **Final Project**  
     *Description*: An in-depth project showcasing the culmination of everything I've learned in the course. From problem formulation to solution deployment, find all the details here.  
-    📄 [FinalProject.md](./FinalProject.md)
+    📄 [FinalProject.md](./Final%20Project)
 
 4. **Home Exercises**  
     *Description*: Assignments given to reinforce our understanding and to provide further practice outside of class hours.  
-    📄 [HomeExercises.md](./HomeExercises.md)
+    📄 [HomeExercises.md](./Home%20Exercises)
 
 ---
 
