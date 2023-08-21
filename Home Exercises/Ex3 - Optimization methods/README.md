@@ -31,7 +31,7 @@ If you find any enhancement or features that can be added, or if you have insigh
 
 I'm Mohammad Khayyo, a passionate machine learning enthusiast and researcher. My deep interest in understanding the very fabrics of deep learning models led to this project. If you're interested in discussing this further or have opportunities that align with my expertise, let's get in touch!
 
-🔗 [LinkedIn](linkedin.com/in/mohammadkhayyo) | 🔗 [GitHub](https://github.com/MohammadKhayyo) | 📧 Email: mohammadkhayyo@gmail.com
+🔗 [LinkedIn](linkedin.com/in/mohammadkhayyo/) | 🔗 [GitHub](https://github.com/MohammadKhayyo) | 📧 Email: mohammadkhayyo@gmail.com
 
 ---
 
