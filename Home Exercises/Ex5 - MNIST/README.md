@@ -70,7 +70,7 @@ Feel free to fork this repository, raise issues or submit Pull Requests. All con
 
 I'm a passionate machine learning enthusiast and developer. This project is a testament to my drive for constantly upskilling and pushing the boundaries of what I know. If you find this project intriguing, consider reaching out. I'd love to explore opportunities, collaborations, or even simple tech chats.
 
-🔗 [LinkedIn](linkedin.com/in/mohammadkhayyo) | 🔗 [GitHub](https://github.com/MohammadKhayyo) | 📧 Email: mohammadkhayyo@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammadkhayyo/) | 🔗 [GitHub](https://github.com/MohammadKhayyo) | 📧 Email: mohammadkhayyo@gmail.com
 
 
 ---

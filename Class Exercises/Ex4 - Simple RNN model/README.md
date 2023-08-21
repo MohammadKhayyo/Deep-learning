@@ -49,9 +49,8 @@ I'm open to discussions about this model and its potential improvements. If you 
 
 **📞 Contact**:
 
-Name : Mohammad Khayyo  
-Email : mohammadkhayyo@gmail.com  
-LinkedIn : linkedin.com/in/mohammadkhayyo
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammadkhayyo/) | 📧 Email: mohammadkhayyo@gmail.com
+
 ---
 
 **P.S.**: If you enjoyed reading this README as much as I did crafting it, let's discuss the code behind it in our next conversation! 🌟

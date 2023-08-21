@@ -52,4 +52,7 @@ Feel free to explore the code, understand the architecture, and even enhance the
 
 ## Feedback and Support 💬
 
-For any queries or feedback, please reach out to `mohammadkhayyo@gmail.com` or my linkedin `linkedin.com/in/mohammadkhayyo`. Happy coding!
+For any queries or feedback
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammadkhayyo/) | 📧 Email: mohammadkhayyo@gmail.com
+
+Happy coding!
