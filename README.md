@@ -48,7 +48,7 @@ While this repository serves as a showcase of my journey through the world of De
 💌 **Contact**:  
 For further queries or to connect with me
 
-🔗 [LinkedIn](linkedin.com/in/mohammadkhayyo/) | 📧 Email: mohammadkhayyo@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammadkhayyo/) | 📧 Email: mohammadkhayyo@gmail.com
 
 ---
 
