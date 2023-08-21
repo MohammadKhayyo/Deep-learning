@@ -50,7 +50,7 @@ I'm open to discussions about this model and its potential improvements. If you 
 **📞 Contact**:
 
 Name : Mohammad Khayyo  
-Email : mohammadkhayyo@gmail.com
+Email : mohammadkhayyo@gmail.com  
 LinkedIn : linkedin.com/in/mohammadkhayyo
 ---
 
