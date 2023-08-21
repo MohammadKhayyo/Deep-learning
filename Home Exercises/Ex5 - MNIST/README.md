@@ -1,4 +1,4 @@
-# `Autoencoder for Image Denoising README.md`
+# Autoencoder for Image Denoising
 
 ---
 
