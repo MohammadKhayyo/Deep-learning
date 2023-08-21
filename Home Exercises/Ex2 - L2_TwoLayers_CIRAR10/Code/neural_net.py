@@ -1,5 +1,5 @@
 # Name : Mohammad Khayyo
-# ID : 211558895
+
 import numpy as np
 import matplotlib.pyplot as plt
 
